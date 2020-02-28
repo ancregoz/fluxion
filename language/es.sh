@@ -8,7 +8,7 @@ FLUXIONDeallocatingInterfaceNotice="Deallocating reserved interface $CGrn\"\$int
 FLUXIONInterfaceAllocatedNotice="${CGrn}Interface allocation succeeded!"
 FLUXIONInterfaceAllocationFailedError="${CRed}Interface reservation failed!"
 FLUXIONReidentifyingInterface="Renaming interface."
-FLUXIONUnblockingWINotice="Unblocking all wireless interfaces..."
+FLUXIONUnblockingWINotice="Desbloqueando todos los interfaces wireless..."
 #FLUXIONFindingExtraWINotice="Looking for extraneous wireless interfaces..."
 FLUXIONRemovingExtraWINotice="Removing extraneous wireless interfaces..."
 FLUXIONFindingWINotice="Looking for available wireless interfaces..."
@@ -29,7 +29,7 @@ FLUXIONTargetTrackerInterfaceQueryTip="${CSYel}Choosing a dedicated interface ma
 FLUXIONTargetTrackerInterfaceQueryTip2="${CBRed}If you're unsure, choose \"${CBYel}Skip${CBRed}\"!$CClr"
 FLUXIONIncompleteTargettingInfoNotice="Missing ESSID, BSSID, or channel information!"
 FLUXIONTargettingAccessPointAboveNotice="Fluxion is targetting the access point above."
-FLUXIONContinueWithTargetQuery="Continue with this target?"
+FLUXIONContinueWithTargetQuery="Continuar con este objetivo?"
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 FLUXIONStartingScannerNotice="Starting scanner, please wait..."
 FLUXIONStartingScannerTip="Five seconds after the target AP appears, close the FLUXION Scanner (ctrl+c)."
